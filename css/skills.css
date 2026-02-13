@@ -1,0 +1,24 @@
+/* SKILLS SLIDE */
+.slide-skills {
+  background: linear-gradient(135deg, #011223, #010e1e);
+  text-align: center;
+}
+
+.skills-title {
+  font-size: 3.2rem;
+  font-weight: 800;
+  margin-bottom: 60px;
+}
+
+.skills-group h3 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #e5e8ec;
+}
+
+.skills-group p {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
